@@ -57,7 +57,7 @@
   },
   "backend": {
     "imageid": "ubuntu",
-    "imageid":"kubernetes",
+    "imageid":"kubernetes-cluster",
     "imageid": "go"
   }
 }
