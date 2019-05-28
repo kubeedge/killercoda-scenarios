@@ -53,11 +53,11 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal-terminal"
   },
   "backend": {
+    "imageid": "go",
     "imageid": "ubuntu",
-    "imageid":"kubernetes-cluster",
-    "imageid": "go"
+    "imageid": "kubernetes-cluster"
   }
 }
