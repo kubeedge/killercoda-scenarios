@@ -7,8 +7,9 @@ Change metadata.name to name of the edge node to deploy.
 
 Deploy node using the below command.
 
-_kubectl apply -f $GOPATH/src/github.com/kubeedge/kubeedge/build/node.json -s cloudhuburl:8080_
-
+```sh
+kubectl apply -f $GOPATH/src/github.com/kubeedge/kubeedge/build/node.json -s cloudhuburl:8080
+```
 _Replace cloudhuburl with the ip of the machine where cloud is running(use ens3 inet addr)._
 
 Perform above two steps multiple times to create multiple nodes.
