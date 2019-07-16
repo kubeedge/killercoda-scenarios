@@ -16,7 +16,7 @@ Perform above two steps multiple times to create multiple nodes.
 
 On successful creation of node, message "node/_edge node name given_ created" will be displayed. 
 
-Pull docker image of edgecore(The image used for this tutorial is created from release version v0.3.0-beta.0).
+Pull docker image of edgecore(The image used for this tutorial is created from release-1.0).
 
 `docker pull kubeedge/edgecore:v1.0.0`{{execute HOST2}}
 
