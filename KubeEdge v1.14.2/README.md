@@ -4,6 +4,6 @@ We have created a tutorial in the interactive learning platform Killercoda for K
 
 ![alt text](/Images/scenarios.png) 
 
-you can acess it https://killercoda.com/sarthak-009
+This is available on <https://killercoda.com/sarthak-009>
 
 Pls try it out!!
