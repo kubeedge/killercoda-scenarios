@@ -1,0 +1,53 @@
+{
+    "title": "KubeEdge Deployment",
+    "description": "Deploying KubeEdge",
+    "details": {
+        "steps": [
+            {
+                "title": "Step 1/9",
+                "text": "step1.md"
+            },
+            {
+                "title": "Step 2/9",
+                "text": "step2.md"
+            },
+            {
+                "title": "Step 3/9",
+                "text": "step3.md"
+            },
+            {
+                "title": "Step 4/9",
+                "text": "step4.md"
+            },
+            {
+                "title": "Step 5/9",
+                "text": "step5.md"
+            },
+            {
+                "title": "Step 6/9",
+                "text": "step6.md"
+            },
+            {
+                "title": "Step 7/9",
+                "text": "step7.md"
+            },
+            {
+                "title": "Step 8/9",
+                "text": "step8.md"
+            },
+            {
+                "title": "Step 9/9",
+                "text": "step9.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}
