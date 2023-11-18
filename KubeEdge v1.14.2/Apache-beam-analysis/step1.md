@@ -9,6 +9,6 @@
 #### For demo 1.1: Pull the docker image from dockerhub by using following command
 
 ```
-$ sudo docker pull containerise/ke_apache_beam:ke_apache_analysis_v1.1
-```
+sudo docker pull containerise/ke_apache_beam:ke_apache_analysis_v1.1
+```{{execute}} 
 
