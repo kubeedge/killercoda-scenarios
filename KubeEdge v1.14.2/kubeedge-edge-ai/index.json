@@ -1,0 +1,37 @@
+{
+    "title": "KubeEdge Deployment",
+    "description": "Edge-ai-demo",
+    "details": {
+        "steps": [
+            {
+                "title": "Step 1/5",
+                "text": "step1.md"
+            },
+            {
+                "title": "Step 2/5",
+                "text": "step2.md"
+            },
+            {
+                "title": "Step 3/5",
+                "text": "step3.md"
+            },
+            {
+                "title": "Step 4/5",
+                "text": "step4.md"
+            },
+            {
+                "title": "Step 5/5",
+                "text": "step5.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}
