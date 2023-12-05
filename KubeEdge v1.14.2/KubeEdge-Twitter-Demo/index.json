@@ -1,0 +1,42 @@
+{
+    "title": "KubeEdge Deployment",
+    "description": "KubeEdge Twitter Demo",
+    "details": {
+        "steps": [
+            {
+                "title": "Step 1/7",
+                "text": "step1.md"
+            },
+            {
+                "title": "Step 2/7",
+                "text": "step2.md"
+            },
+            {
+                "title": "Step 3/7",
+                "text": "step3.md"
+            },
+            {
+                "title": "Step 4/7",
+                "text": "step4.md"
+            },
+            {
+                "title": "Step 5/7",
+                "text": "step5.md"
+            },
+            {
+                "title": "Step 6/7",
+                "text": "step6.md"
+            },
+            {
+                "title": "Step 7/7",
+                "text": "step7.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md"
+        }
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}
