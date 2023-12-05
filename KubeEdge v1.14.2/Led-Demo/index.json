@@ -1,0 +1,30 @@
+{
+    "title": "KubeEdge Deployment",
+    "description": "Led-Raspberry-Pi",
+    "details": {
+        "steps": [
+            {
+                "title": "Step 1/4",
+                "text": "step1.md"
+            },
+            {
+                "title": "Step 2/4",
+                "text": "step2.md"
+            },
+            {
+                "title": "Step 3/4",
+                "text": "step3.md"
+            },
+            {
+                "title": "Step 4/4",
+                "text": "step4.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md"
+        }
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}
